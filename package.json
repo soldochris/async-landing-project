@@ -4,7 +4,7 @@
   "description": "a landing page which is the course project for Platzi's async javascript course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/soldochris/async-landing-project/issues"
   },
-  "homepage": "https://github.com/soldochris/async-landing-project#readme"
+  "homepage": "https://github.com/soldochris/async-landing-project#readme",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
