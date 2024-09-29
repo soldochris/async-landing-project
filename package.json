@@ -1,0 +1,24 @@
+{
+  "name": "async-landing-project",
+  "version": "1.0.0",
+  "description": "a landing page which is the course project for Platzi's async javascript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soldochris/async-landing-project.git"
+  },
+  "keywords": [
+    "javascript",
+    "async",
+    "landing"
+  ],
+  "author": "Christian Soldevilla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soldochris/async-landing-project/issues"
+  },
+  "homepage": "https://github.com/soldochris/async-landing-project#readme"
+}
